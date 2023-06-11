@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2023-05-19T00:45:32.556Z",
-    "end": "2023-05-19T00:45:32.769Z",
-    "duration": 213
+    "start": "2023-06-11T21:46:34.373Z",
+    "end": "2023-06-11T21:46:34.582Z",
+    "duration": 209
   },
   "tests": [
     {
@@ -48,7 +48,7 @@
     {
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -115,7 +115,7 @@
     {
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
